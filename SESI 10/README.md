@@ -34,11 +34,15 @@ flutter test
 ## Screenshot
 
 ### HP Portrait
-![Menu HP](screenshots/phone-menu.png)
+![Menu HP](<img width="1209" height="2553" alt="Screenshot_20261126_225457" src="https://github.com/user-attachments/assets/c69c6d6a-25fd-4cd2-85a2-1ae1b9fbaa00" />
+)
 
-![Pesanan HP](screenshots/phone-orders.png)
+![Pesanan HP](<img width="1209" height="2553" alt="Screenshot_20261126_225521" src="https://github.com/user-attachments/assets/4d027ed5-9266-4b46-af98-144e6e6dc5e9" />
+)
 
 ### HP Landscape
-![Menu Landscape](screenshots/phone-landscape-menu.png)
+![Menu Landscape](<img width="2553" height="1209" alt="Screenshot_20261126_225542" src="https://github.com/user-attachments/assets/1fe0e715-27b9-4290-8cf9-501a7da3b02a" />
+)
 
-![Pesanan Landscape](screenshots/phone-landscape-orders.png)
+![Pesanan Landscape](<img width="2553" height="1209" alt="Screenshot_20261126_225557" src="https://github.com/user-attachments/assets/afd33438-4697-4a56-af07-9264e78b368d" />
+)
