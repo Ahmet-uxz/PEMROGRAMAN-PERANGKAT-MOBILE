@@ -34,7 +34,7 @@ flutter test
 ## Screenshot
 
 ### HP Portrait
-![Menu HP](<img width="1209" height="2553" alt="Screenshot_20261126_225457" src="https://github.com/user-attachments/assets/c69c6d6a-25fd-4cd2-85a2-1ae1b9fbaa00" />
+![Menu HP](<img width="1209" height="2553" alt="Screenshot_20261126_225457" src="https://github.com/user-attachments/assets/b09b1694-39fe-4a79-a79d-8e28afd0b6de" />
 )
 
 ![Pesanan HP](<img width="1209" height="2553" alt="Screenshot_20261126_225521" src="https://github.com/user-attachments/assets/4d027ed5-9266-4b46-af98-144e6e6dc5e9" />
